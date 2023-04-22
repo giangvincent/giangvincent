@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is Giang. I'm from Viet Nam and you can call me Vincent.
-####  I am a FullStack Developer for almost 2+ years
-![ I am a FullStack Developer for almost 2+ years](https://i.imgur.com/lJl63BJ.jpg)
+####  I am a FullStack Developer for almost 4+ years
+![ I am a FullStack Developer for almost 4+ years](https://i.imgur.com/lJl63BJ.jpg)
 
 I am happy when working with VueJS, NodeJS, Php, Laravel, MySQL, Serverless, Google App Engine. I am more happy when create Game. I have already participated to develop some Instant games, one of them is AllTheQuiz which have millions of player around the world played. I also created backend with App Creation Tool by FabricJS and VueJS.
 
