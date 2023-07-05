@@ -6,7 +6,7 @@ I am happy when working with VueJS, NodeJS, Php, Laravel, MySQL, Serverless, Goo
 
 I had worked for a company that outsourcing for many agencies from Germany. In the time, I worked here I used Symfony and VueJs to develop registration pages of a bank system. After that I moved to another team to develop variety online shops using Shopware Platform. In this role, I used VueJS, JS and Symfony to resolve many difficult tasks and issues.
 
-Tech stacks: Vue JS / React / JS / HTML / CSS + Laravel / PHP + Express JS / Node JS + MySQL / Redis + AWS / Serverless / GCS
+Tech stacks: PHP / Laravel / Symfony / SQL / MySQL / JS / VueJS / ReactJS / CSS / SASS / Google App Engine / AWS / Serverless
 
 🌱 I’m currently learning React JS 📫 How to reach me: giang.dlinh@gmail.com 
 
