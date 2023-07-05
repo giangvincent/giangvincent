@@ -1,10 +1,12 @@
 ### Hi there 👋, My Name is Giang. I'm from Viet Nam and you can call me Vincent.
-####  I am a FullStack Developer for almost 4+ years
-![ I am a FullStack Developer for almost 4+ years](https://i.imgur.com/lJl63BJ.jpg)
+####  I am a FullStack Developer for almost 5+ years
+![ I am a FullStack Developer for almost 5+ years](https://i.imgur.com/lJl63BJ.jpg)
 
-I am happy when working with VueJS, NodeJS, Php, Laravel, MySQL, Serverless, Google App Engine. I am more happy when create Game. I have already participated to develop some Instant games, one of them is AllTheQuiz which have millions of player around the world played. I also created backend with App Creation Tool by FabricJS and VueJS.
+I am happy when working with VueJS, NodeJS, Php, Laravel, MySQL, Serverless, Google App Engine. I am more happy when create Game. I had already participated to develop some Instant games, one of them is AllTheQuiz which have millions of player around the world played. I also created backend with App Creation Tool by FabricJS and VueJS.
 
-Skills: Vue JS / React / JS / HTML / CSS + Laravel / PHP + Express JS / Node JS + MySQL / Redis + AWS / Serverless / GCS
+I had worked for a company that outsourcing for many agencies from Germany. In the time, I worked here I used Symfony and VueJs to develop registration pages of a bank system. After that I moved to another team to develop variety online shops using Shopware Platform. In this role, I used VueJS, JS and Symfony to resolve many difficult tasks and issues.
+
+Tech stacks: Vue JS / React / JS / HTML / CSS + Laravel / PHP + Express JS / Node JS + MySQL / Redis + AWS / Serverless / GCS
 
 🌱 I’m currently learning React JS 📫 How to reach me: giang.dlinh@gmail.com 
 
