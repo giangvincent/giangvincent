@@ -1,5 +1,5 @@
 ### Hi there 👋, My Name is Giang. I'm from Viet Nam and you can call me Vincent.
-####  I am a FullStack Developer for almost 5+ years
+####  I am a FullStack Developer for almost 6+ years
 ![ I am a FullStack Developer for almost 6+ years](https://i.imgur.com/lJl63BJ.jpg)
 
 I am a seasoned developer with over six years of experience in PHP and JavaScript, building dynamic, scalable, and user-centric web applications. My expertise in backend frameworks like Laravel and Symfony, developed over the past three years, has enabled me to create efficient, secure, and well-architected solutions for various industries.
