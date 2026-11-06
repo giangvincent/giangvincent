@@ -28,7 +28,7 @@ Open for new freelance projects | Remote (UTC+7)
 📫 Contact
 📧 giang.dlinh@gmail.com
 
-💼 Profile: [linktr.ee/giangvincent](https://linktr.ee/giangvincent)
+💼 Profile: [giangvincent.vercel.app](https://giangvincent.vercel.app)
 
 🌍 Vietnam / Remote Friendly
 
